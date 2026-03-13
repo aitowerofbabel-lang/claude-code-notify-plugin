@@ -20,7 +20,7 @@
 
 ```powershell
 # 方式 A：使用 Git 克隆
-git clone https://github.com/你的用户名/claude-code-notify-plugin.git
+git clone https://github.com/aitowerofbabel-lang/claude-code-notify-plugin.git
 
 # 方式 B：直接下载 ZIP
 # 访问 GitHub 仓库 → Code → Download ZIP → 解压
